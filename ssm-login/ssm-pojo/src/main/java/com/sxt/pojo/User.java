@@ -1,6 +1,8 @@
 package com.sxt.pojo;
 
-public class User {
+public class User 
+	/*ff*/
+	
 	private String username;
 	private String password;
 	public String getUsername() {
